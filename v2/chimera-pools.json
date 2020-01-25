@@ -1,0 +1,67 @@
+{
+  "pools": [
+    {
+      "name": "54.172.240.25",
+      "url": "http://54.172.240.25/",
+      "api": "http://54.172.240.25:8117/",
+      "type": "forknote",
+      "miningAddress": "54.172.240.25",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "chimera.pdss2access.com",
+      "url": "http://chimera.pdss2access.com/",
+      "api": "http://chimera.pdss2access.com:8117/",
+      "type": "forknote",
+      "miningAddress": "chimera.pdss2access.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "miningpool.fun",
+      "url": "https://cmra.miningpool.fun/",
+      "api": "https://cmra.miningpool.fun:8151",
+      "type": "forknote",
+      "miningAddress": "cmra.miningpool.fun",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "semipool.com",
+      "url": "https://webcmra.semipool.com/",
+      "api": "http://trtl.cryptoasiapool.com/api/",
+      "type": "forknote",
+      "miningAddress": "pool.semipool.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
+      "name": "cryptonote.club-mng",
+      "url": "https://mng.cryptonote.club/",
+      "api": "https://mng.cryptonote.club:8197/stats",
+      "type": "other",
+      "miningAddress": "mng.cryptonote.club",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": true
+    },
+    {
+      "name": "cryptonote.club-btch",
+      "url": "https://btch.cryptonote.club/",
+      "api": "https://btch.cryptonote.club:8197/stats",
+      "type": "forknote",
+      "miningAddress": "btch.cryptonote.club",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": true
+    },
+    {
+      "name": "minercountry.com",
+      "url": "https://wtips.minercountry.com/",
+      "api": "https://wtips.minercountry.com/tmapi/",
+      "type": "forknote",
+      "miningAddress": "wtips.minercountry.com",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": true
+    }
+  ]
+}
